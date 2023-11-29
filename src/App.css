@@ -1,0 +1,10 @@
+#root {
+  max-width: 100%;
+  margin: auto 0;
+  --rojo: #ba181b;
+	--azul: #00b4d8;
+	--azul-hover: #48cae4;
+	--rojo-hover: #e5383b;
+	--verde: #09a129;
+	--blueButton: #0D6EFD;
+}
